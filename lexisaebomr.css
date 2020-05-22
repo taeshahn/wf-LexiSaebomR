@@ -1,0 +1,8 @@
+@font-face {
+    font-family: LexiSaebomR;
+    src: url('LexiSaebomR.eot');
+    src: url('LexiSaebomR.eot?#iefix') format('embedded-opentype'),
+         url('LexiSaebomR.woff') format('woff'),
+         url('LexiSaebomR.ttf') format('truetype'),
+         url('LexiSaebomR.svg') format('svg');
+}
